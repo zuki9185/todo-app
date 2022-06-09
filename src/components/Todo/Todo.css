@@ -1,0 +1,11 @@
+
+.main-div {
+    text-align: center;
+  }
+  figcaption{
+    font-size: 20px;
+    font-weight: 800;
+  }
+  .inputSet{
+    outline: none;
+  }
